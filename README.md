@@ -4,12 +4,9 @@
 
 <br>
 
-<!-- Repo Card -->
-<a href="https://github.com/viniciusnvcosta/DataScience_Portifolio">
+<!-- Repo Cards -->
+<!-- <a href="https://github.com/viniciusnvcosta/DataScience_Portifolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusnvcosta&repo=DataScience_Portifolio&theme=tokyonight&icon_color=9ECE6A" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a> -->
 
 <br>
