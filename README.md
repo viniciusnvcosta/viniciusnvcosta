@@ -1,6 +1,6 @@
 # Hi there, I'm Vinícius <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Waving" width="30" height="30" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-nunes-da-costa/)
 
-With over two years of experience in the dynamic startup ecosystem, I specialize in leveraging data science to drive innovation and meaningful impact. My academic background includes a B.Sc. in Computer Science, and I am currently pursuing a double major with a degree in Business. This combination enhances my project management and leadership skills around modern AI solutions.
+With over three years of experience in the dynamic startup ecosystem, I specialize in leveraging data science to drive innovation and meaningful impact. My academic background includes a B.Sc. in Computer Science, and I am currently pursuing a double major with a degree in Business. This combination enhances my project management and leadership skills around modern AI solutions.
 
 I am passionate about the intersection of technology and business, particularly in developing AI and Big Data solutions that benefit society and the environment. My primary domain is healthcare, where I aspire to contribute as a researcher in AI and Deep Learning for medical sciences.
 
